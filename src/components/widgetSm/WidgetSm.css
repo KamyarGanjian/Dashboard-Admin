@@ -64,3 +64,47 @@
 .widgetSmIcon {
     font-size: 16px;
 }
+
+@media screen and (max-width: 1080px) {
+    .widgetSmButton {
+        display: none;
+    }
+
+    .widgetSmListItem {
+        justify-content: flex-start;
+    }
+
+    .widgetSmImg {
+        margin-left: 5px;
+    }
+}
+
+@media screen and (max-width: 995px) {
+    .widgetSm {
+        flex: 2;
+        margin-top: 10px;
+    }
+
+    .widgetSmUsername {
+        font-size: 13px;
+    }
+
+    .widgetSmUserTitle {
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 970px) {
+    .widgetSm {
+        flex: 2;
+        padding-bottom: 0px;
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+}
+
+@media screen and (max-width: 490px) {
+    .widgetSmTitle{
+        font-size: 15px;
+    }
+}

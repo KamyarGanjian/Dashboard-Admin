@@ -1,7 +1,6 @@
 .sidebar {
-    overflow-y: scroll;
     flex: 1;
-    height: calc(100vh - 50px);
+    height: calc(155vh - 0px);
     background-color: rgb(251, 251, 255);
     position: sticky;
     top: 50px;
@@ -51,4 +50,26 @@
 .sidebarIcon {
     margin: auto 5px;
     font-size: 20px;
+}
+
+@media screen and (max-width: 1263px) {
+    .sidebar {
+        flex: 1;
+        position: unset;
+        float: right;
+        display: inline;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1030px) {
+    .sidebar{
+        flex: 1;
+    }
+}
+
+@media screen and (max-width: 571px) {
+    .sidebar{
+        flex: 2;
+    }
 }

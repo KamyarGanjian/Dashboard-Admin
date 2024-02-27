@@ -4,7 +4,6 @@
     border: 0;
     font-family: "vazir";
 }
-
 @font-face {
     font-family: 'vazir';
     src: url('../public/vazir-font-v16.1.0/Vazir-Light.woff');
@@ -20,10 +19,10 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: linear-gradient(transparent, rgb(255, 234, 241));
-    border-radius: 6px;
+    background: linear-gradient(transparent, rgb(255, 184, 207));
+    border-radius: 5px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: linear-gradient(transparent, rgb(255, 192, 213));
+    background: linear-gradient(transparent, rgb(255, 146, 182));
 }

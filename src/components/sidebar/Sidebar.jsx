@@ -11,7 +11,6 @@ import DynamicFeedIcon from '@mui/icons-material/DynamicFeed';
 import ChatBubbleOutlineIcon from '@mui/icons-material/ChatBubbleOutline';
 import { WorkOutline } from '@mui/icons-material';
 import { Report } from '@mui/icons-material';
-import { useLocation } from 'react-router-dom';
 
 import { Link } from 'react-router-dom';
 
@@ -24,7 +23,7 @@ export default function Sidebar() {
                 <div className="sidebarMenu">
                     <h3 className="sidebarTitle">داشبورد</h3>
                     <ul className='sidebarList'>
-                        <Link to="/" className='link'>
+                        <Link to="/" className="link">
                             <li className='sidebarListItem active'>
                                 <LineStyleIcon className='sidebarIcon' />
                                 صفحه اصلی

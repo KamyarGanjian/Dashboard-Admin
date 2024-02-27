@@ -87,7 +87,7 @@ export default function Product() {
                             <input type="file" style={{ display: 'none' }} />
                         </div>
 
-                        <button className='productButton'>ایجاد کن</button>
+                        <button className='productButton'>بارگذاری</button>
 
                     </div>
 

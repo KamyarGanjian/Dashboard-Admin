@@ -1,9 +1,37 @@
 .home {
     flex: 5;
-    margin: auto 0%;
+    margin: 0 0;
 }
 
 .homeWidgets {
     display: flex;
     margin-left: 20px;
+}
+
+@media screen and (max-width: 1263px) {
+    .home {
+        flex: 4;
+        position: unset;
+        float: right;
+        display: inline;
+        width: 40%;
+    }
+}
+
+@media screen and (max-width: 1263px) {
+    .home {
+        flex: 3;
+    }
+}
+
+@media screen and (max-width: 827px) {
+    .home {
+        flex: 2;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .homeWidgets {
+        flex-direction: column;
+    }
 }
