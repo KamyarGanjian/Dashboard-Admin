@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dashboard-Admin/static/css/main.f7f29149.css",
+    "main.js": "/Dashboard-Admin/static/js/main.2ec34f49.js",
+    "static/media/Vazir-Light.woff": "/Dashboard-Admin/static/media/Vazir-Light.dd230c2b71a41b810ead.woff",
+    "static/media/Vazir-Bold.woff": "/Dashboard-Admin/static/media/Vazir-Bold.cf91a7a6bcfa78aad306.woff",
+    "index.html": "/Dashboard-Admin/index.html",
+    "main.f7f29149.css.map": "/Dashboard-Admin/static/css/main.f7f29149.css.map",
+    "main.2ec34f49.js.map": "/Dashboard-Admin/static/js/main.2ec34f49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7f29149.css",
+    "static/js/main.2ec34f49.js"
+  ]
+}
