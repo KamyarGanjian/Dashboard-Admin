@@ -1,2 +1,2 @@
 # React Js project with react router dom
-## a admin dashboard
+## an admin dashboard for selling medical devices
