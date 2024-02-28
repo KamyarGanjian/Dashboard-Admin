@@ -6,11 +6,15 @@
 
 <br>
 
-![picture](https://github.com/KamyarGanjian/BitDigit-Website/assets/145255798/b2d508fc-fdc6-40fb-85e6-e8afba0ebcc5)
+![Screenshot (7)](https://github.com/KamyarGanjian/BitDigit-Website/assets/145255798/3ec4d178-62f0-4d47-962b-8a1b415c6d62)
 
 <br>
 
-![Screenshot (10)](https://github.com/KamyarGanjian/BitDigit-Website/assets/145255798/2494c935-f556-421b-9001-2c79c19434aa)
+![Screenshot (8)](https://github.com/KamyarGanjian/BitDigit-Website/assets/145255798/6044d6a7-9b75-4f4e-a97c-72151d51750d)
+
+<br>
+
+![picture](https://github.com/KamyarGanjian/BitDigit-Website/assets/145255798/b2d508fc-fdc6-40fb-85e6-e8afba0ebcc5)
 
 <br>
 
