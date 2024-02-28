@@ -2,7 +2,7 @@
 
 # React Js project with react router dom
 
-## an admin dashboard for selling medical devices
+## an admin dashboard web page for selling medical devices
 
 <br>
 
